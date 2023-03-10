@@ -1,4 +1,6 @@
-# fuck
+# Fuck
+Analiza datasetu przy użyciu języka R ✩˖ ࣪‧₊˚໒꒱⋆✩
+# Case
 Analizowane dane zawierają informacje na temat ilości padającego słowa “f*ck” w 143 wybranych anglojęzycznych filmach na przestrzeni prawie 50 lat. Ponadto dołączona jest informacja o długości filmów - w minutach, oraz klasyfikacja obserwacji do grup na podstawie daty ich premiery, w następującym systemie:
 -	premiera w latach 2012 - 2022: “nowy”
 -	premiera w latach 2001 - 2012: “średni”
