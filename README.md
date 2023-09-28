@@ -1,5 +1,5 @@
 # Fuck 𓆩♡𓆪
-Przeprowadzono analizę zbioru danych z użyciem języka R, aby uzyskać wgląd w związki pomiędzy zmiennymi oraz wyłonić istotne cechy zbioru. ✩˖ ࣪‧₊˚໒꒱⋆✩
+Przeprowadzono analizę zbioru danych z użyciem języka R, aby uzyskać wgląd w związki pomiędzy zmiennymi oraz wyłonić istotne cechy zbioru. Basically, chciałyśmy zobaczyć czy starszy & dłuższy film = więcej fuck. ✩˖ ࣪‧₊˚໒꒱⋆✩
 # Case
 Analizowane dane zawierają informacje na temat ilości padającego słowa “f*ck” w 143 wybranych anglojęzycznych filmach na przestrzeni prawie 50 lat. Ponadto dołączona jest informacja o długości filmów - w minutach, oraz klasyfikacja obserwacji do grup na podstawie daty ich premiery, w następującym systemie:
 -	premiera w latach 2012 - 2022: “nowy”
